@@ -1,5 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+.idea
+
 # dependencies
 node_modules
 /.pnp
@@ -13,7 +15,7 @@ node_modules
 out/
 
 # production
-build
+#build
 
 # typescript
 *.tsbuildinfo
@@ -53,7 +55,7 @@ lerna-debug.log
 # build output
 
 dist/
-build/
+#build/
 
 # studio
 packages/toolpad-studio/public/web_modules

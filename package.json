@@ -133,7 +133,7 @@
   },
   "engines": {
     "node": ">=20",
-    "pnpm": "9.12.3"
+    "pnpm": "9.*"
   },
   "resolutions": {
     "google-auth-library": "*",
